@@ -1,16 +1,32 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Miguel A. Melendez Hernandez</h1>
+<p align="center">💻 Junior Software Developer | Passionate about front-end and learning backend</p>
 
-<!--
-**Miguel0728/Miguel0728** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 👨‍💻 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🎓 B.S. in Computer Science (Graduated December 2024)
+- 🧠 Currently seeking my first developer opportunity
+- 🛠️ Passionate about building projects that solve real problems
+- 📌 Experience with Visual Basic, C#, and web technologies
+
+---
+
+### 🛠 Skills
+
+- **Languages:** Visual Basic .NET, C#, JavaScript, HTML, CSS  
+- **Databases:** MySQL, SQL Server  
+- **Tools:** Git, GitHub, Visual Studio, VS Code  
+- **Others:** Responsive design, problem-solving, debugging  
+
+---
+
+### 📫 How to Reach Me
+
+- 📧 **Email:** melendezmiguel13@gmail.com  
+- 📱 **Phone:** +1 (787) 639-5893  
+- 🌐 **Portfolio:** [Enlace a tu sitio si ya lo subiste]  
+
+---
+
+*Thanks for visiting my profile! I hope you find inspiration in my projects and contributions.*
