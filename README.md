@@ -25,7 +25,7 @@
 
 - 📧 **Email:** melendezmiguel13@gmail.com  
 - 📱 **Phone:** +1 (787) 639-5893  
-- 🌐 **Portfolio:** [mmelendez-portfolio.netlify.app]  
+- 🌐 **Portfolio:** [https://mmelendez-portfolio.netlify.app]  
 
 ---
 
